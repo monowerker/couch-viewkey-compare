@@ -18,6 +18,9 @@
   ],
   "author": "Daniel Ericsson <monowerker@gmail.com>",
   "license": "ISC",
+  "engines": {
+    "node": ">=0.12"
+  },
   "devDependencies": {
     "better-assert": "^1.0.2"
   }
