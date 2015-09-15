@@ -1,6 +1,6 @@
 {
   "name": "couch-viewkey-compare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implements CouchDB view-key collation in a compare function",
   "repository": {
     "type": "git",
